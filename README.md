@@ -109,6 +109,7 @@ WebサイトのURLが「https://ユーザー名.github.io/」になりますの�
 <html>
   <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>青森太郎のページ</title>
  </head>
  <body>
@@ -168,6 +169,7 @@ h1 {
 <html>
   <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" href="/css/styles.css">
     <title>青森太郎のページ</title>
  </head>
@@ -196,6 +198,7 @@ h1 {
 <html>
   <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" href="/css/styles.css">
     <title>青森太郎のページ</title>
  </head>
