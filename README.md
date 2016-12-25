@@ -154,7 +154,7 @@ h1 {
     -  [Upload files]をクリック
     - 「Drag files here to add them to your repository Or choose your files」にファイルをドラッグ&ドロップするか、[choose your files]をクリックしてファイルを選択する
 * ファイルを保存する
-    - ページ下部の[Commit Changes]の欄に「Add css/styles.css via upload」と記入
+    - ページ下部の[Commit changes]の欄に「Add css/styles.css via upload」と記入
     - [Commit changes]をクリック
 * ブラウザで「https://ユーザー名.github.io/css/styles.css」を確認
 
@@ -178,7 +178,7 @@ h1 {
 ```
 
 * ファイルを保存する
-    - ページ下部の[Commit Changes]の欄に「Update index.html」、詳細を記入する欄に「Add link to css/styles.css」と記入
+    - ページ下部の[Commit changes]の欄に「Update index.html」、詳細を記入する欄に「Add link to css/styles.css」と記入
     - [Commit changes]をクリック
 * ブラウザで「https://ユーザー名.github.io/」を確認
 
@@ -211,6 +211,6 @@ h1 {
     - [Upload files]をクリック
     - 「Drag files here to add them to your repository Or choose your files」にファイルをドラッグ&ドロップするか、「choose your files」クリックしてファイルを選択する
 * ファイルを保存する
-    - ページ下部の[Commit Changes]の欄に「Update index.html via upload」と記入
+    - ページ下部の[Commit changes]の欄に「Update index.html via upload」と記入
     - [Commit changes]をクリック
 * ブラウザで「https://ユーザー名.github.io/」を確認
