@@ -63,7 +63,7 @@ WebサイトのURLが「https://ユーザー名.github.io/」になりますの�
 例: Computer Science
 * [Submit]をクリック
 
-#### 6. メール・アドレスで検証して、登録を完了させる
+#### 6. メール・アドレスを検証して、登録を完了させる
 * [Start a project]をクリックして、プロジェクトをはじめてみようとする
 * 「Please verify your email address」と言われる
 * メールを確認し、メールの中のリンク「Verify email address」をクリックする
@@ -81,10 +81,10 @@ WebサイトのURLが「https://ユーザー名.github.io/」になりますの�
 #### 2. リポジトリを作る
 * はじめて個人Webサイトを作るときに行う
 * [Start a project]をクリック
-    - [Start a project]が表示されていなければ、画面右上の「+」をクリック
+    - [Start a project]が表示されていなければ、画面右上の「+」をクリックし「New repository」を選択
 * 必要項目を記入
     - [Repository name]に「ユーザー名.github.io」  
-      これは個人のGitHub Pagesを作る場合の設定
+      個人のGitHub Pagesを作る場合にこのように設定
     - [Public/Private]は「Public」を選択
 * [Create repository]をクリック
 
@@ -127,8 +127,7 @@ WebサイトのURLが「https://ユーザー名.github.io/」になりますの�
 
 #### 6. cssフォルダを作成
 * [Create new file]をクリック
-* ファイル名の欄に「css/」と入力すると、フォルダが作成される
-* 続けて「README.md」と入力する  
+* ファイル名の欄に「css/」と入力するとフォルダが作成され、さらに続けて「README.md」と入力する  
   ※フォルダには何かしらファイルが必要なので
 * ファイルの内容を作成する(実際にはしない)
     - 「README」ファイルの内容を編集できるが、何もしないで、スクロールしてページ下部へ
