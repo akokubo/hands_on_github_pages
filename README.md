@@ -29,42 +29,39 @@
 4. リポジトリにコミット(収納)して、公開する
 
 ---
+## 事前準備: GitHubにアカウントを作る
 
-## ハンズオン
-
-### GitHubにアカウントを作る
-
-#### 1. GitHubにアクセスする
+### 1. GitHubにアクセスする
 * ブラウザで<https://github.com/>へ
 
-#### 2. ユーザー登録へすすむ
+### 2. ユーザー登録へすすむ
 * [Sign up for GitHub]をクリックする
 
-#### 3. アカウント情報を入力する
+### 3. アカウント情報を入力する
 * 以下の情報を入力
     - Username  
-WebサイトのURLが「https://ユーザー名.github.io/」になりますので、適切に選んでください。  
-また、GitHubに既に存在しているユーザー名は使用できません。
+      WebサイトのURLが「https://ユーザー名.github.io/」になりますので、適切に選んでください。  
+      また、GitHubに既に存在しているユーザー名は使用できません。
     - Email Address
     - Password
 * [Create an account]をクリック
 
-#### 4. 料金プランを選択する
+### 4. 料金プランを選択する
 * [Unlimited public repositories for free.]を選択
 * [Continue]をクリック
 
-#### 5. 経歴を設定する
+### 5. 経歴を設定する
 * How would you describe your level of programming experience?  
-例: [Very experienced]
+  例: [Very experienced]
 * What do you plan to use GitHub for?  
-例: [School projects], [Research]
+  例: [School projects], [Research]
 * Which is closest to how you would descibe yourself?  
-例: [I'm a professional]
+  例: [I'm a professional]
 * What are you interested in?  
-例: Computer Science
+  例: Computer Science
 * [Submit]をクリック
 
-#### 6. メール・アドレスを検証して、登録を完了させる
+### 6. メール・アドレスを検証して、登録を完了させる
 * [Start a project]をクリックして、プロジェクトをはじめてみようとする
 * 「Please verify your email address」と言われる
 * メールを確認し、メールの中のリンク「Verify email address」をクリックする
@@ -72,14 +69,14 @@ WebサイトのURLが「https://ユーザー名.github.io/」になりますの�
 
 ---
 
-### GitHubページで個人のWebサイトを公開する
+## ハンズオン: GitHubページで個人のWebサイトを公開する
 
-#### 1. GitHubへアクセスする
+### 1. GitHubへアクセスする
 * ブラウザでGitHubにアクセスする  
   <https://github.com/>
 * サインインしていなければ、サインインする
 
-#### 2. リポジトリを作る
+### 2. リポジトリを作る
 * はじめて個人Webサイトを作るときに行う
 * [Start a project]をクリック
     - [Start a project]が表示されていなければ、画面右上の「+」をクリックし「New repository」を選択
@@ -89,7 +86,7 @@ WebサイトのURLが「https://ユーザー名.github.io/」になりますの�
     - [Public/Private]は「Public」を選択
 * [Create repository]をクリック
 
-#### 3. ファイル操作のユーザー・インターフェイスを表示させる
+### 3. ファイル操作のユーザー・インターフェイスを表示させる
 * 何もファイルがないと、インストラクションが表示され、ファイル操作のユーザー・インターフェイスが表示されない
 * そこで、とりあえず「README」を作る
     - 「We recommend every repository include a REAMDE, LICENSE, and .gitignore」の[README]の部分をクリック
@@ -100,11 +97,12 @@ WebサイトのURLが「https://ユーザー名.github.io/」になりますの�
     - [Commit new file]をクリック
 * ファイル操作のユーザー・インターフェイスが表示される
 
-#### 4. HTMLを作る
+### 4. HTMLを作る
 * [Create new file]をクリック
 * ファイルの内容を作成する
     - ファイル名に「index.html」
     - [Edit new file]に以下のようなHTMLを書き込む
+
 ```HTML
 <!DOCTYPE html>
 <html>
@@ -118,16 +116,17 @@ WebサイトのURLが「https://ユーザー名.github.io/」になりますの�
   </body>
 </html>
 ```
+
 * ファイルを保存する
     - ページ下部の[Commit new file]の欄に「Create index.html」と記入
     -  [Commit new file]をクリック
 
-#### 5. 公開されたページの確認
+### 5. 公開されたページの確認
 * 画面上部のタブの右端の[Settings]を選択
 * [Options]の中の[GitHub Pages]を見ると「Your site is published at https://ユーザー名.github.io/」と表示されている
 * ブラウザで「https://ユーザー名.github.io/」にアクセス
 
-#### 6. cssフォルダを作成
+### 6. cssフォルダを作成
 * [Create new file]をクリック
 * ファイル名の欄に「css/」と入力するとフォルダが作成され、さらに続けて「README.md」と入力する  
   ※フォルダには何かしらファイルが必要なので
@@ -137,7 +136,7 @@ WebサイトのURLが「https://ユーザー名.github.io/」になりますの�
     - ページ下部の[Commit new file]の欄に「Create css/README.md」と記入
     - [Commit new file]をクリック
 
-#### 7. cssフォルダにCSSをアップロード
+### 7. cssフォルダにCSSをアップロード
 * 「styles.css」という名前で以下のようなファイルを用意  
    ファイルのエンコーディングはUTF-8
 
@@ -160,11 +159,12 @@ h1 {
     - [Commit changes]をクリック
 * ブラウザで「https://ユーザー名.github.io/css/styles.css」を確認
 
-#### 8. WebインターフェイスからHTMLを編集
+### 8. WebインターフェイスからHTMLを編集
 * 「ユーザー名 / ユーザー名.github.ioフォルダ」に戻る
 * 「index.html」をクリック
 * ファイルの中身が表示されている部分の右上の鉛筆のアイコンをクリック
 * ファイルの内容を編集する
+
 ```HTML
 <!DOCTYPE html>
 <html>
@@ -185,7 +185,7 @@ h1 {
     - [Commit changes]をクリック
 * ブラウザで「https://ユーザー名.github.io/」を確認
 
-#### 9. アップロードしてHTMLを更新
+### 9. アップロードしてHTMLを更新
 * 最初にアップロードするファイルを作る
 * 「ユーザー名 / ユーザー名.github.io」フォルダに戻る
 * 「index.html」をクリック
@@ -194,6 +194,7 @@ h1 {
   具体的には、表示内容をローカルのエディタにペーストする  
   そして、下記のように編集する  
   それを「index.html」という名前で、エンコーディングをUTF-8にして、ファイルに保存する
+
 ```HTML
 <!DOCTYPE html>
 <html>
