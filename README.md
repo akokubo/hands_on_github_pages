@@ -110,8 +110,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>青森太郎のページ</title>
- </head>
- <body>
+  </head>
+  <body>
     <h1>青森太郎のページ</h1>
   </body>
 </html>
@@ -173,8 +173,8 @@ h1 {
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" href="/css/styles.css">
     <title>青森太郎のページ</title>
- </head>
- <body>
+  </head>
+  <body>
     <h1>青森太郎のページ</h1>
   </body>
 </html>
@@ -203,8 +203,8 @@ h1 {
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" href="/css/styles.css">
     <title>青森太郎のページ</title>
- </head>
- <body>
+  </head>
+  <body>
     <h1>青森太郎のページ</h1>
     <p>ここは青森太郎のページです。</p>
   </body>
