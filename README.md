@@ -23,12 +23,13 @@
 * GitHub Pagesを、Webインターフェイスから使用して、個人のWebサイトを公開
 
 ### GitHub Pages利用の流れ
-1. はじめて個人Webサイトを公開するときに、リポジトリ(保管庫)を作る
+1. はじめて使うときに、リポジトリ(保管庫)を作る
 2. 必要に応じて、リポジトリの中にフォルダを作る
 3. ファイルを作る/編集する/削除する
 4. リポジトリにコミット(収納)して、公開する
 
 ---
+
 ## 事前準備: GitHubにアカウントを作る
 
 ### 1. GitHubにアクセスする
@@ -77,7 +78,7 @@
 * サインインしていなければ、サインインする
 
 ### 2. リポジトリを作る
-* はじめて個人Webサイトを作るときに行う
+* はじめて使うときに行う
 * [Start a project]をクリック
     - [Start a project]が表示されていなければ、画面右上の「+」をクリックし「New repository」を選択
 * 必要項目を記入
@@ -127,9 +128,10 @@
 * ブラウザで「https://ユーザー名.github.io/」にアクセス
 
 ### 6. cssフォルダを作成
-* [Create new file]をクリック
-* ファイル名の欄に「css/」と入力するとフォルダが作成され、さらに続けて「README.md」と入力する  
-  ※フォルダには何かしらファイルが必要なので
+* フォルダとファイルを作る
+    - フォルダには何かしらファイルが必要なので
+    - [Create new file]をクリック
+    - ファイル名の欄に「css/」と入力するとフォルダが作成され、さらに続けて「README.md」と入力してファイルを作る
 * ファイルの内容を作成する(実際にはしない)
     - 「README」ファイルの内容を編集できるが、何もしないで、スクロールしてページ下部へ
 * ファイルを保存する
@@ -214,7 +216,7 @@ h1 {
 * 「ユーザー名 / ユーザー名.github.ioフォルダ」に戻る
 * ファイルをアップロードする
     - [Upload files]をクリック
-    - 「Drag files here to add them to your repository Or choose your files」にファイルをドラッグ&ドロップするか、「choose your files」クリックしてファイルを選択する
+    - 「Drag files here to add them to your repository Or choose your files」にファイルをドラッグ&ドロップするか、「choose your files」をクリックしてファイルを選択する
 * ファイルを保存する
     - ページ下部の[Commit changes]の欄に「Update index.html via upload」と記入
     - [Commit changes]をクリック
