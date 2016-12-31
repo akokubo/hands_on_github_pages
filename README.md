@@ -152,7 +152,8 @@ h1 {
 }
 ```
 
-* 「ユーザー名.github.io/css/」にいることを確認
+* 作業フォルダの確認
+    - 「ユーザー名 / ユーザー名.github.io/」リポジトリの「ユーザー名.github.io/css/」フォルダにいることを確認
 * ファイルをアップロードする
     -  [Upload files]をクリック
     - 「Drag files here to add them to your repository Or choose your files」にファイルをドラッグ&ドロップするか、[choose your files]をクリックしてファイルを選択する
@@ -162,7 +163,8 @@ h1 {
 * ブラウザで「https://ユーザー名.github.io/css/styles.css」を確認
 
 ### 8. WebインターフェイスからHTMLを編集
-* 「ユーザー名 / ユーザー名.github.ioフォルダ」に戻る
+* 作業フォルダの変更
+    - 「ユーザー名 / ユーザー名.github.io」リポジトリのトップのフォルダに戻る
 * 「index.html」をクリック
 * ファイルの中身が表示されている部分の右上の鉛筆のアイコンをクリック
 * ファイルの内容を編集する
@@ -189,7 +191,8 @@ h1 {
 
 ### 9. アップロードしてHTMLを更新
 * 最初にアップロードするファイルを作る
-* 「ユーザー名 / ユーザー名.github.io」フォルダに戻る
+* 作業フォルダの変更
+    - 「ユーザー名 / ユーザー名.github.io」リポジトリのトップのフォルダに戻る
 * 「index.html」をクリック
 * ファイルの中身が表示されている部分の右上の[Raw」をクリック
 * 表示内容をコピーし、編集して、ローカルにファイルを作る  
@@ -213,7 +216,8 @@ h1 {
 </html>
 ```
 
-* 「ユーザー名 / ユーザー名.github.ioフォルダ」に戻る
+* 作業フォルダの変更
+    - 「ユーザー名 / ユーザー名.github.io」リポジトリのトップのフォルダに戻る
 * ファイルをアップロードする
     - [Upload files]をクリック
     - 「Drag files here to add them to your repository Or choose your files」にファイルをドラッグ&ドロップするか、「choose your files」をクリックしてファイルを選択する
