@@ -135,7 +135,7 @@
 * ファイルの内容を作成する(実際にはしない)
     - 「README」ファイルの内容を編集できるが、何もしないで、スクロールしてページ下部へ
 * ファイルを保存する
-    - ページ下部の[Commit new file]の欄に「Create css/README.md」と記入
+    - ページ下部の[Commit new file]の欄に「Create /css/README.md」と記入
     - [Commit new file]をクリック
 
 ### 7. cssフォルダにCSSをアップロード
@@ -156,9 +156,9 @@ h1 {
     - 「ユーザー名 / ユーザー名.github.io/」リポジトリの「ユーザー名.github.io/css/」フォルダにいることを確認
 * ファイルをアップロードする
     -  [Upload files]をクリック
-    - 「Drag files here to add them to your repository Or choose your files」にファイルをドラッグ&ドロップするか、[choose your files]をクリックしてファイルを選択する
+    - 「Drag files here to add them to your repository Or choose your files」にファイルをドラッグ&ドロップするか、[choose your files]の部分をクリックしてファイルを選択する
 * ファイルを保存する
-    - ページ下部の[Commit changes]の欄に「Add css/styles.css via upload」と記入
+    - ページ下部の[Commit changes]の欄に「Add /css/styles.css via upload」と記入
     - [Commit changes]をクリック
 * ブラウザで「https://ユーザー名.github.io/css/styles.css」を確認
 
@@ -185,7 +185,7 @@ h1 {
 ```
 
 * ファイルを保存する
-    - ページ下部の[Commit changes]の欄に「Update index.html」、詳細を記入する欄に「Add link to css/styles.css」と記入
+    - ページ下部の[Commit changes]の欄に「Update index.html」、詳細を記入する欄に「Add link to /css/styles.css」と記入
     - [Commit changes]をクリック
 * ブラウザで「https://ユーザー名.github.io/」を確認
 
@@ -221,7 +221,7 @@ h1 {
         + 「ユーザー名 / ユーザー名.github.io」リポジトリのトップのフォルダに戻る
     - ファイルをアップロードする
         + [Upload files]をクリック
-        + 「Drag files here to add them to your repository Or choose your files」にファイルをドラッグ&ドロップするか、「choose your files」をクリックしてファイルを選択する
+        + 「Drag files here to add them to your repository Or choose your files」にファイルをドラッグ&ドロップするか、「choose your files」の部分をクリックしてファイルを選択する
     - ファイルを保存する
         + ページ下部の[Commit changes]の欄に「Update index.html via upload」と記入
         + [Commit changes]をクリック
